@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 205</title>
-      <pubDate>Sun, 25 Oct 2026 15:31:21 GMT</pubDate>
+      <title>Verbose beta 206</title>
+      <pubDate>Sun, 25 Oct 2026 15:58:51 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>205</sparkle:version>
+      <sparkle:version>206</sparkle:version>
       <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Version notes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Tap the version at the bottom of Settings to see what changed in each build. It's also in Settings › Support › What's new.&lt;/li&gt;&lt;li&gt;Mac: choose Verbose › What's New…, or open Settings › What's new.&lt;/li&gt;&lt;li&gt;After an update, Home shows a short note about the new build once. Tap it to read more, or close it.&lt;/li&gt;&lt;li&gt;Mac: the update window lists what's new in the build it offers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-205"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-205/Verbose.dmg" length="102049358" type="application/octet-stream" sparkle:edSignature="sbmiv30BRczzjYt/fjmCShVbU+dnv7ZUTJmS2n8BIqTdsXScBppbpts8d2ZP8i+dcBFaTdynJA1l8LanRyZrAg==" />
+      <description>&lt;h3&gt;Native look fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;iPhone: Home and Library switch fully to the Native look.&lt;/li&gt;&lt;li&gt;Tags, categories, and sponsor rows match the Native look.&lt;/li&gt;&lt;li&gt;iPhone: cards in Settings › Keyboard and other pages match the Native look.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-206"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-206/Verbose.dmg" length="102054928" type="application/octet-stream" sparkle:edSignature="c3+k/210BFXqTNxOrkO1CLMaKRCTMyRX0dy8gNLgbW2632gDMMiNXnS7WCqIPlPQ8KzKKi6esXp32wc+JemVCA==" />
     </item>
   </channel>
 </rss>
