@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 206</title>
-      <pubDate>Sun, 25 Oct 2026 15:58:51 GMT</pubDate>
+      <title>Verbose beta 208</title>
+      <pubDate>Sun, 25 Oct 2026 17:44:58 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>206</sparkle:version>
+      <sparkle:version>208</sparkle:version>
       <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Native look fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;iPhone: Home and Library switch fully to the Native look.&lt;/li&gt;&lt;li&gt;Tags, categories, and sponsor rows match the Native look.&lt;/li&gt;&lt;li&gt;iPhone: cards in Settings › Keyboard and other pages match the Native look.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-206"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-206/Verbose.dmg" length="102054928" type="application/octet-stream" sparkle:edSignature="c3+k/210BFXqTNxOrkO1CLMaKRCTMyRX0dy8gNLgbW2632gDMMiNXnS7WCqIPlPQ8KzKKi6esXp32wc+JemVCA==" />
+      <description>&lt;h3&gt;Faster screens and fixes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: choosing a look shows a short card while Verbose changes to it, and the change takes less time. On iPhone, this arrived in build 207.&lt;/li&gt;&lt;li&gt;Mac: screens appear at once when you switch to them, without sections fading in one by one, and Home's icons arrive drawn. They draw again when you point at them.&lt;/li&gt;&lt;li&gt;Mac: switching screens and opening a transcript do less work, so the app keeps up while something transcribes or plays.&lt;/li&gt;&lt;li&gt;Home's greeting and dates follow the clock while Verbose transcribes, plays, or dictates. On iPhone, You's dates do too.&lt;/li&gt;&lt;li&gt;Importing a damaged MP4 or M4A file no longer closes Verbose.&lt;/li&gt;&lt;li&gt;Mac: the thought pad's Send button names the app you switch to right away, and the pad stops checking once you close it.&lt;/li&gt;&lt;li&gt;Mac: on the You page, Cloud cleanup shows whether it's on and opens its own setting.&lt;/li&gt;&lt;li&gt;A long file that starts transcribing as Verbose opens keeps its saved progress, so if Verbose quits unexpectedly, the file picks up where it left off.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-208"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-208/Verbose.dmg" length="102124760" type="application/octet-stream" sparkle:edSignature="BXiVo5MayH9HnSeB+eIo/eK0oczwVmZehGlVchqJMhvVNHALEd0oxGAM2WM4mXQaR532SRHzEEwz5a/MA7tdCQ==" />
     </item>
   </channel>
 </rss>
