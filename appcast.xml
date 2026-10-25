@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 204</title>
-      <pubDate>Sun, 25 Oct 2026 14:49:07 GMT</pubDate>
+      <title>Verbose beta 205</title>
+      <pubDate>Sun, 25 Oct 2026 15:31:21 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>204</sparkle:version>
+      <sparkle:version>205</sparkle:version>
       <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Beta build 204 of main.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-204"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-204/Verbose.dmg" length="101911266" type="application/octet-stream" sparkle:edSignature="FGr4lYPHNEtKWKSKUY3z5ap5/upMm5n3OctvGmpbo5LWxHhP4zso2i2Cu2ttff9whc5e1AXRo7NrOufPe7N3Bw==" />
+      <description>&lt;h3&gt;Version notes&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Tap the version at the bottom of Settings to see what changed in each build. It's also in Settings › Support › What's new.&lt;/li&gt;&lt;li&gt;Mac: choose Verbose › What's New…, or open Settings › What's new.&lt;/li&gt;&lt;li&gt;After an update, Home shows a short note about the new build once. Tap it to read more, or close it.&lt;/li&gt;&lt;li&gt;Mac: the update window lists what's new in the build it offers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-205"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-205/Verbose.dmg" length="102049358" type="application/octet-stream" sparkle:edSignature="sbmiv30BRczzjYt/fjmCShVbU+dnv7ZUTJmS2n8BIqTdsXScBppbpts8d2ZP8i+dcBFaTdynJA1l8LanRyZrAg==" />
     </item>
   </channel>
 </rss>
