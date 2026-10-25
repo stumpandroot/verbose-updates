@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 214</title>
-      <pubDate>Sun, 25 Oct 2026 23:14:01 GMT</pubDate>
+      <title>Verbose beta 215</title>
+      <pubDate>Sun, 25 Oct 2026 23:59:05 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>214</sparkle:version>
+      <sparkle:version>215</sparkle:version>
       <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Faster look switching&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: switching between Verbose style and Native is faster while the Settings window is closed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-214"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-214/Verbose.dmg" length="104594140" type="application/octet-stream" sparkle:edSignature="N4DtSWXoFJzRUthG3DxD5lEqP/lZJobr1f+yH2zuCgOMBGUd0JzMp1yUjjoii/aQ9bD4COYrZdssUEMd3yEUCw==" />
+      <description>&lt;h3&gt;Snappier on the Mac&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: moving between screens is quicker, most of all in Native and after you've opened Settings.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-215"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-215/Verbose.dmg" length="104622523" type="application/octet-stream" sparkle:edSignature="0fuCKY4VnO40+9+gR3xQSeoZUoP3fTYX0KqoDYb8H6xGHPN83pDHB1h2wItCm4e3netl5ef22hsl05oocyIwCg==" />
     </item>
   </channel>
 </rss>
