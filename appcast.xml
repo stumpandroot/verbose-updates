@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Verbose</title>
+    <link>https://raw.githubusercontent.com/stumpandroot/verbose-updates/main/appcast.xml</link>
+    <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
+    <language>en</language>
+    <item>
+      <title>Verbose beta 203</title>
+      <pubDate>Sun, 25 Oct 2026 13:46:11 GMT</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>203</sparkle:version>
+      <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Beta build 203 of main.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-203"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-203/Verbose.dmg" length="100471059" type="application/octet-stream" sparkle:edSignature="d0R/fKGegIabp/n8p2qtT6/Es4kU2kYJmMg+YQr599s6uiDjLK+XzgcysjqnobPQg+aQeyXurGfK9j/l73tmBw==" />
+    </item>
+  </channel>
+</rss>
