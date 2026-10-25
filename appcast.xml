@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 211</title>
-      <pubDate>Sun, 25 Oct 2026 20:31:55 GMT</pubDate>
+      <title>Verbose beta 214</title>
+      <pubDate>Sun, 25 Oct 2026 23:14:01 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>211</sparkle:version>
+      <sparkle:version>214</sparkle:version>
       <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Faster with big libraries&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Verbose stays responsive while a file transcribes, and opens faster when you have a large library.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-211"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-211/Verbose.dmg" length="104601398" type="application/octet-stream" sparkle:edSignature="Fjjeq9GAkIfFKfls7N9YXT8hBo35wxfL2N+3TTkia+j4X4HKjTUquk35ophTD/0/FxzHwM5Gcnh1PXEXWMQvDQ==" />
+      <description>&lt;h3&gt;Faster look switching&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: switching between Verbose style and Native is faster while the Settings window is closed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-214"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-214/Verbose.dmg" length="104594140" type="application/octet-stream" sparkle:edSignature="N4DtSWXoFJzRUthG3DxD5lEqP/lZJobr1f+yH2zuCgOMBGUd0JzMp1yUjjoii/aQ9bD4COYrZdssUEMd3yEUCw==" />
     </item>
   </channel>
 </rss>
