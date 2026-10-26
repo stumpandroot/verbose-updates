@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 220</title>
-      <pubDate>Mon, 26 Oct 2026 18:44:00 GMT</pubDate>
+      <title>Verbose beta 221</title>
+      <pubDate>Mon, 26 Oct 2026 19:41:17 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>220</sparkle:version>
+      <sparkle:version>221</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Faster By day and look switching&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: Library › By day opens faster in Native, and switching looks no longer redraws the closed Thoughts page.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-220"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-220/Verbose.dmg" length="105453497" type="application/octet-stream" sparkle:edSignature="qR0wTEDMJEkTCPAoAtIIU6RpPt7h+O2HJui5ONfqBpWXaA8t2bJtL3U2R+loVjAwX3h89I4/GJgi4VGJV77uDA==" />
+      <description>&lt;h3&gt;Thoughts on the iPhone&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;iPhone: Thoughts. Tap New thought on today's page and say a thought. It lands on today's page with its time, like on the Mac.&lt;/li&gt;&lt;li&gt;iPhone: start a thought without opening Verbose from the New thought widget, the Lock Screen, Control Center, the Action button, or Siri (“New thought in Verbose”). The Dynamic Island shows your voice, your words, and Stop.&lt;/li&gt;&lt;li&gt;iPhone: every thought is saved as audio before it's transcribed, so none is lost. If transcription fails, tap Transcribe again.&lt;/li&gt;&lt;li&gt;iPhone: Library › By day shows Thoughts and Journal one page a day, with a calendar that marks the days you recorded. Use the arrows on a page to read earlier days, and tap a thought to edit it.&lt;/li&gt;&lt;li&gt;iPhone: the Quick capture widget is now New thought, and the new Today's thoughts widget shows today's last two thoughts. The Lock Screen widget shows only how many, never your words.&lt;/li&gt;&lt;li&gt;iPhone: Settings › Features › Thoughts shows each way in and how to set up the Action button and Back Tap.&lt;/li&gt;&lt;li&gt;iPhone: the Action button can start a thought. Choose New thought in Settings › Action button.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-221"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-221/Verbose.dmg" length="105455226" type="application/octet-stream" sparkle:edSignature="xCK/Ka6S/meQ5tSAgY7kzNAhVasEhU3oikX+g0IMesua7g8+gfSeBiWyQCgC8F49mogYzsKzLjkYT29vXTkHAQ==" />
     </item>
   </channel>
 </rss>
