@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 219</title>
-      <pubDate>Mon, 26 Oct 2026 17:37:49 GMT</pubDate>
+      <title>Verbose beta 220</title>
+      <pubDate>Mon, 26 Oct 2026 18:44:00 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>219</sparkle:version>
+      <sparkle:version>220</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Thoughts on the Mac&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: switching between Home, Library, and You is instant, with no overlap.&lt;/li&gt;&lt;li&gt;Mac: Thoughts. Click the floating bubble or press ⌃⌥P in any app to say a thought, and click again to keep it. It lands on today's page with its time, and the app you're in stays in front.&lt;/li&gt;&lt;li&gt;Mac: every thought is saved as audio before it's transcribed, so none is lost. If transcription fails, choose Transcribe again.&lt;/li&gt;&lt;li&gt;Mac: the Thought pad is now today's Thoughts page. Use its arrows to read earlier days. What was on your pad moved to the days you wrote it.&lt;/li&gt;&lt;li&gt;Mac: Library › By day shows Thoughts and Journal one page a day, with a calendar that marks the days you recorded.&lt;/li&gt;&lt;li&gt;Mac: the Quick capture widget is now New thought, which starts a thought without opening Verbose, and a new Today's thoughts widget shows today's page.&lt;/li&gt;&lt;li&gt;Mac: a dictation that doesn't paste is kept in Dictations, and ⌃⌘V still pastes it again.&lt;/li&gt;&lt;li&gt;The Idea kind is now called Thoughts.&lt;/li&gt;&lt;li&gt;Settings shows the version as 1.0 beta with the build number, and What's new groups builds by version.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-219"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-219/Verbose.dmg" length="105440084" type="application/octet-stream" sparkle:edSignature="0hvnO7YHH4NbOeGdtpcCiZHn0giOVNd6npdQ41xiyoi8G8Ksrp6dNc5aNd51WMx+8uS0TBcDPUdn5OW1cbAPBA==" />
+      <description>&lt;h3&gt;Faster By day and look switching&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: Library › By day opens faster in Native, and switching looks no longer redraws the closed Thoughts page.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-220"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-220/Verbose.dmg" length="105453497" type="application/octet-stream" sparkle:edSignature="qR0wTEDMJEkTCPAoAtIIU6RpPt7h+O2HJui5ONfqBpWXaA8t2bJtL3U2R+loVjAwX3h89I4/GJgi4VGJV77uDA==" />
     </item>
   </channel>
 </rss>
