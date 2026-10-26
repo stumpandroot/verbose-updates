@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 215</title>
-      <pubDate>Sun, 25 Oct 2026 23:59:05 GMT</pubDate>
+      <title>Verbose beta 217</title>
+      <pubDate>Mon, 26 Oct 2026 15:01:22 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>215</sparkle:version>
+      <sparkle:version>217</sparkle:version>
       <sparkle:shortVersionString>0.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Snappier on the Mac&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mac: moving between screens is quicker, most of all in Native and after you've opened Settings.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-215"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-215/Verbose.dmg" length="104622523" type="application/octet-stream" sparkle:edSignature="0fuCKY4VnO40+9+gR3xQSeoZUoP3fTYX0KqoDYb8H6xGHPN83pDHB1h2wItCm4e3netl5ef22hsl05oocyIwCg==" />
+      <description>&lt;h3&gt;More words spelled right&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Verbose spells about 330 more words right without any setup: AI tools and apps, places, people, brands, film and video gear, and business terms, such as NVIDIA, Albuquerque, H.264, and EBITDA.&lt;/li&gt;&lt;li&gt;Dictation fixes everyday mix-ups that are always wrong, such as “could of been” and “sneak peak.” Turn them off with Built-in vocabulary in Settings.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-217"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-217/Verbose.dmg" length="104914324" type="application/octet-stream" sparkle:edSignature="iStCiUAcNmRaacZzj16doLM0O3OM2u6Ih+l1fWIfAx9iKm0yHyVpT9xSiqRAIani72jReA0H2jVoJ+CtJnrwCQ==" />
     </item>
   </channel>
 </rss>
