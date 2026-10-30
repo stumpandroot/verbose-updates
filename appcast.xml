@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 242</title>
-      <pubDate>Fri, 30 Oct 2026 02:13:15 GMT</pubDate>
+      <title>Verbose beta 243</title>
+      <pubDate>Fri, 30 Oct 2026 03:17:11 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>242</sparkle:version>
+      <sparkle:version>243</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;A new look, and fewer places to look&lt;/h3&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Transcripts have the new look: serif text, colored speaker chips, and a glass player.&lt;/li&gt;&lt;li&gt;The recorder has the new look: the kind in serif and a persimmon clock.&lt;/li&gt;&lt;li&gt;Minimized, a recording shows its time with Pause and Stop above the tab bar.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-242"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-242/Verbose.dmg" length="105896631" type="application/octet-stream" sparkle:edSignature="6DjlvRq/so5JG1ZyGwjWleEmCXYPqGAXAho85uXI/01qZcfsoJc3m8Vr6B1FslDVMPyO9PJqlBGjvYRoVJBeDg==" />
+      <description>&lt;h3&gt;A new look, and fewer places to look&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;In Appearance, the look is one row with a menu. On the Mac it's a pop-up in Personalization. Picking a look still switches at once.&lt;/li&gt;&lt;li&gt;The Settings window has the new look: a colored square beside each pane and its title. Rows sit on cards with switches in persimmon and the system's buttons and menus. The version and What's new stay at the foot of the sidebar, and search works as before.&lt;/li&gt;&lt;li&gt;The You page has the new look, with your week's bars and where you dictate in cards. Click your name to change it. Websites still count by domain only.&lt;/li&gt;&lt;li&gt;Home's tiles have quiet line patterns, and the record disc sits centered in its rings.&lt;/li&gt;&lt;li&gt;Clean up in Recent is a smaller text button beside the recording's title.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Transcripts have the new look: serif text, colored speaker chips, and a glass player.&lt;/li&gt;&lt;li&gt;The recorder has the new look: the kind in serif and a persimmon clock.&lt;/li&gt;&lt;li&gt;Minimized, a recording shows its time with Pause and Stop above the tab bar.&lt;/li&gt;&lt;li&gt;Settings has the new look: colored icons, values on the right, and switches in a card.&lt;/li&gt;&lt;li&gt;The You page shows your week, About me, your voice, and cleanup in cards.&lt;/li&gt;&lt;li&gt;Recordings use your AirPods when they're connected, at full quality on iOS 26.&lt;/li&gt;&lt;li&gt;Tap the microphone in the recorder to record from another one.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-243"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-243/Verbose.dmg" length="105768098" type="application/octet-stream" sparkle:edSignature="TPOCit6mShIPjt998On1spA+3x4/+45U4XR+O78ZACeshPRXn/OQlpD/6jp2csZnj9op5GVO5b7hVNAaMQi0Bg==" />
     </item>
   </channel>
 </rss>
