@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 249</title>
-      <pubDate>Fri, 30 Oct 2026 14:20:18 GMT</pubDate>
+      <title>Verbose beta 250</title>
+      <pubDate>Fri, 30 Oct 2026 19:07:37 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>249</sparkle:version>
+      <sparkle:version>250</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;AirPods on the first recording, and Record that fits the tab&lt;/h3&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Your first recording with AirPods in records from them, with no need to pick them.&lt;/li&gt;&lt;li&gt;On Thoughts, Record starts a thought, and on Journal a journal entry.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-249"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-249/Verbose.dmg" length="104365481" type="application/octet-stream" sparkle:edSignature="mPw5bbmhPV/wkFnFwXE5cQ0CHgv7zS9+hxBSko14qIhHXucb9HKFhbwNK56QoEwZwfAjGlYMDw9LVynh9RJqAQ==" />
+      <description>&lt;h3&gt;A muted mic doesn't cost you the recording&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;If your mic is muted while you record, the Mac's built-in mic fills in what it missed. The built-in mic listens beside a USB or other mic and keeps its last 15 seconds. Turn it off in Settings › Recording and transcription › Speakers.&lt;/li&gt;&lt;li&gt;A muted mic shows a notification and a menu bar alert when Verbose isn't in front. Verbose also notices mics that send faint noise instead of silence when muted, by comparing them with the built-in mic.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;A muted USB or wired mic moves the recording to the iPhone microphone and tells you.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-250"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-250/Verbose.dmg" length="104372648" type="application/octet-stream" sparkle:edSignature="iD1P8lxDn/2QqkfvzWZm17ER2YTdV17SePP9l8WQJ2pdOaTT+5FYknh1QPVJSJWEkhbVbcrDNI1B+jFbCDFTDA==" />
     </item>
   </channel>
 </rss>
