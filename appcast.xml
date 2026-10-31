@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 252</title>
-      <pubDate>Fri, 30 Oct 2026 22:30:09 GMT</pubDate>
+      <title>Verbose beta 253</title>
+      <pubDate>Sat, 31 Oct 2026 00:07:28 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>252</sparkle:version>
+      <sparkle:version>253</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;A welcome tour that shows the way in&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;The welcome tour shows four more ways in: Record, Import, New thought, and Search or ask. Each one shows its shortcut. Everyone sees the new tour once; open it again from Settings.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;The welcome tour shows the ways to record and how to add the Verbose keyboard.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-252"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-252/Verbose.dmg" length="103995685" type="application/octet-stream" sparkle:edSignature="FapAF6D4/26Mxa2KWKY4Oz0I1ebjvlj55nGEYM+hZqMYyYEcbn1/BDCsWVGPeo/twGqxx6/Knrt38rHuo98VCw==" />
+      <description>&lt;p&gt;Beta build 253 of main.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-253"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-253/Verbose.dmg" length="104438279" type="application/octet-stream" sparkle:edSignature="PTtX5i549cZNclR7oSZEl+PQZQun2nxqjin+bSi9E6I34MBMHQNlkqbrQDKDEF4/JFt5Mn35B+95ywjZeGIxDQ==" />
     </item>
   </channel>
 </rss>
