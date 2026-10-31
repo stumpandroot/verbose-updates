@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 255</title>
-      <pubDate>Sat, 31 Oct 2026 14:45:14 GMT</pubDate>
+      <title>Verbose beta 256</title>
+      <pubDate>Sat, 31 Oct 2026 16:02:46 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>255</sparkle:version>
+      <sparkle:version>256</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Privacy and security fixes&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Links in transcripts open only web pages. A link that names a file or another app no longer opens it.&lt;/li&gt;&lt;li&gt;Only Verbose's own widgets can start a recording or dictation through a link. Another app or a web page that opens a Verbose link brings Verbose forward without turning on the microphone.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Send to Reminders works from Plan my day.&lt;/li&gt;&lt;li&gt;Cloud cleanup asks before it sends your words to Anthropic or OpenAI.&lt;/li&gt;&lt;li&gt;Delete all data also removes your voice profile, named voices, plans, and templates.&lt;/li&gt;&lt;li&gt;A link from another app opens today's Thoughts page instead of starting a thought.&lt;/li&gt;&lt;li&gt;Privacy policy and Terms of use in Settings open the right pages.&lt;/li&gt;&lt;li&gt;The microphone step in the welcome tour leads straight to the system's question.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-255"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-255/Verbose.dmg" length="104456333" type="application/octet-stream" sparkle:edSignature="yyz7+hDvtHxwI1lCH3b7Ou01QtZ2Rfz9tf8+q9+md/lfw2DszMZ3VwY0JivUbG3SBLYVwnmT8B7rY0bCHcqtAg==" />
+      <description>&lt;h3&gt;Privacy and security fixes&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Links in transcripts open only web pages. A link that names a file or another app no longer opens it.&lt;/li&gt;&lt;li&gt;Only Verbose's own widgets can start a recording or dictation through a link. Another app or a web page that opens a Verbose link brings Verbose forward without turning on the microphone.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Verbose is free on iPhone, with a 7-day free trial that starts when you tap it.&lt;/li&gt;&lt;li&gt;A free recording saves at 10 minutes and transcribes, instead of stopping cold.&lt;/li&gt;&lt;li&gt;Settings shows your free trial's days left, and has Restore Purchases.&lt;/li&gt;&lt;li&gt;Send to Reminders works from Plan my day.&lt;/li&gt;&lt;li&gt;Cloud cleanup asks before it sends your words to Anthropic or OpenAI.&lt;/li&gt;&lt;li&gt;Delete all data also removes your voice profile, named voices, plans, and templates.&lt;/li&gt;&lt;li&gt;A link from another app opens today's Thoughts page instead of starting a thought.&lt;/li&gt;&lt;li&gt;Privacy policy and Terms of use in Settings open the right pages.&lt;/li&gt;&lt;li&gt;The microphone step in the welcome tour leads straight to the system's question.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-256"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-256/Verbose.dmg" length="104485578" type="application/octet-stream" sparkle:edSignature="+RpG2KlW/SvsnGKLat+6iV3QmzRUVQYk6XWaHCoXPbSVcNtPwkvEYHFUYRdmXNlPPdX/Unu53fGW1W5DYOcADw==" />
     </item>
   </channel>
 </rss>
