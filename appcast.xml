@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 253</title>
-      <pubDate>Sat, 31 Oct 2026 00:07:28 GMT</pubDate>
+      <title>Verbose beta 254</title>
+      <pubDate>Sat, 31 Oct 2026 12:53:00 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>253</sparkle:version>
+      <sparkle:version>254</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Beta build 253 of main.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-253"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-253/Verbose.dmg" length="104438279" type="application/octet-stream" sparkle:edSignature="PTtX5i549cZNclR7oSZEl+PQZQun2nxqjin+bSi9E6I34MBMHQNlkqbrQDKDEF4/JFt5Mn35B+95ywjZeGIxDQ==" />
+      <description>&lt;h3&gt;Settings moves out of the way&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Settings opens from the gear at the end of the sync line in the sidebar. Press ⌘, or choose Verbose › Settings to open it from anywhere.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Settings opens from the round button beside the date on Home, and no longer takes a tab.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-254"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-254/Verbose.dmg" length="104441677" type="application/octet-stream" sparkle:edSignature="j1qiqkkTUbN5CxaWIFU7Noo1lHW5BKiWHAVCGjieJXhVArzq6OxsWtX8TWLywqkfnxWlNZ5PUbzyGI/07RYZDg==" />
     </item>
   </channel>
 </rss>
