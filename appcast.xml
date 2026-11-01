@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 266</title>
-      <pubDate>Sun, 01 Nov 2026 17:17:00 GMT</pubDate>
+      <title>Verbose beta 269</title>
+      <pubDate>Sun, 01 Nov 2026 22:18:45 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>266</sparkle:version>
+      <sparkle:version>269</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Your words calendar, and change kind while recording&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Tidied tasks keep names, numbers, and short forms like "Dr." as you said them. "Email Dr. Smith" no longer stops at "Dr", a phone number keeps every digit, and "Remember the milk" keeps its first word.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Your words calendar: every day you talked, shaded by the words you dictated.&lt;/li&gt;&lt;li&gt;More about your words: filler words taken out, your pace, and when you talk most.&lt;/li&gt;&lt;li&gt;Change what a recording is while it records: tap its title.&lt;/li&gt;&lt;li&gt;Send tasks can send to Verbose Tasks when it's installed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-266"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-266/Verbose.dmg" length="104622432" type="application/octet-stream" sparkle:edSignature="KiUKoe92Znu7+inz2GwLKXJRqroEvr2n9GENPkr1qkzGmCw0jNr0CM12AcIXlQFm1bHHeMenvU5tVxHLnBreCg==" />
+      <description>&lt;h3&gt;What's new, with pictures&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;What's new opens by itself after bigger updates, once. Continue closes it, and See every update opens the full list. It comes back only for the next bigger update.&lt;/li&gt;&lt;li&gt;Each change has its own picture and headline, in the pop-up and in What's new.&lt;/li&gt;&lt;li&gt;Smaller updates keep the note on Home, as before.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-269"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-269/Verbose.dmg" length="104741642" type="application/octet-stream" sparkle:edSignature="6LX2fUon/Vbh9UXYtMnZyViuJ+cXeqPLmCp+F7dAC94BBWMSmFWKIWzEHROch8DuK6qax4zrPbIQrXjmc3qYCw==" />
     </item>
   </channel>
 </rss>
