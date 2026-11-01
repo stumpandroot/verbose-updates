@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 264</title>
-      <pubDate>Sun, 01 Nov 2026 15:23:08 GMT</pubDate>
+      <title>Verbose beta 265</title>
+      <pubDate>Sun, 01 Nov 2026 16:07:10 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>264</sparkle:version>
+      <sparkle:version>265</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Your words calendar, and change kind while recording&lt;/h3&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Your words calendar: every day you talked, shaded by the words you dictated.&lt;/li&gt;&lt;li&gt;More about your words: filler words taken out, your pace, and when you talk most.&lt;/li&gt;&lt;li&gt;Change what a recording is while it records: tap its title.&lt;/li&gt;&lt;li&gt;Send tasks can send to Verbose Tasks when it's installed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-264"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-264/Verbose.dmg" length="104611707" type="application/octet-stream" sparkle:edSignature="L4YrITmyP618+3nMJ2RjA8gcaf/L+GM6BnYMysGRc67J+80ypUEpCWjpv/ZKpZqqY+Tv3/61o8cfyGpnEyNoAw==" />
+      <description>&lt;h3&gt;Your words calendar, and change kind while recording&lt;/h3&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Your words calendar: every day you talked, shaded by the words you dictated.&lt;/li&gt;&lt;li&gt;More about your words: filler words taken out, your pace, and when you talk most.&lt;/li&gt;&lt;li&gt;Change what a recording is while it records: tap its title.&lt;/li&gt;&lt;li&gt;Send tasks can send to Verbose Tasks when it's installed.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-265"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-265/Verbose.dmg" length="104613659" type="application/octet-stream" sparkle:edSignature="Ky8jbRq7qjX2sEYM1huUkPVXcUcvfm0C1j60ZktsfZnSOWxNqAtL3bmCdbMz2bzEMoTwzmmXmQDxPWo9o9ZXBA==" />
     </item>
   </channel>
 </rss>
