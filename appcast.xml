@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 275</title>
-      <pubDate>Mon, 02 Nov 2026 19:38:30 GMT</pubDate>
+      <title>Verbose beta 276</title>
+      <pubDate>Mon, 02 Nov 2026 21:54:00 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>275</sparkle:version>
+      <sparkle:version>276</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Testing vocal sounds&lt;/h3&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;TestFlight builds can check which laughs, sighs, and pauses Verbose hears.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-275"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-275/Verbose.dmg" length="104778630" type="application/octet-stream" sparkle:edSignature="+nNV+SMxFxivGVVRNS6ojsLC4iRBTDWpGHh70GftmpQg3PeDr3hHFBvN++093i+t4fCZGjL/7USzL4SSVyP3BA==" />
+      <description>&lt;p&gt;Beta build 276 of main.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-276"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-276/Verbose.dmg" length="104753814" type="application/octet-stream" sparkle:edSignature="eIz/IQQSno1SGW/P92irsQ1DR2jyZ+QcReG36U0D0xs71qXgz/2yXVskvnVuV4EGodM9xromRFwp2cFmIiI3Dg==" />
     </item>
   </channel>
 </rss>
