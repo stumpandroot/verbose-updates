@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 271</title>
-      <pubDate>Mon, 02 Nov 2026 03:29:55 GMT</pubDate>
+      <title>Verbose beta 272</title>
+      <pubDate>Mon, 02 Nov 2026 05:14:50 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>271</sparkle:version>
+      <sparkle:version>272</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Time saved, all time&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;The You page shows time saved by talking this week, this month, and since you started. It compares typing the same words at your typing speed with the time you talked. On the iPhone, deleting a dictation keeps its time in the total.&lt;/li&gt;&lt;li&gt;This week's card on Home adds your all-time time saved under the week's.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;The Verbose keyboard's stats add a page for the time you've saved since you started.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-271"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-271/Verbose.dmg" length="104745903" type="application/octet-stream" sparkle:edSignature="d8Rby9yx79CRFt+0SDD4XCSEq2NAvSlbZOVbYZe4oy0a1NnO/AvxqIax0l/2Gh5iM3Oc4e0/4n5vuh6W+IvPBA==" />
+      <description>&lt;p&gt;Beta build 272 of main.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-272"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-272/Verbose.dmg" length="104770239" type="application/octet-stream" sparkle:edSignature="yBa+YbQ91Y/UG0L+Nb475LFcTIHXKKuqm9H6Igy2+GVeMPcp/i2gwXAYsnBwBqRv1ot3Yg3N6Js+0VNxUAezDA==" />
     </item>
   </channel>
 </rss>
