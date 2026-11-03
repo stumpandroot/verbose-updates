@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 276</title>
-      <pubDate>Mon, 02 Nov 2026 21:54:00 GMT</pubDate>
+      <title>Verbose beta 277</title>
+      <pubDate>Tue, 03 Nov 2026 00:19:49 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>276</sparkle:version>
+      <sparkle:version>277</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Beta build 276 of main.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-276"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-276/Verbose.dmg" length="104753814" type="application/octet-stream" sparkle:edSignature="eIz/IQQSno1SGW/P92irsQ1DR2jyZ+QcReG36U0D0xs71qXgz/2yXVskvnVuV4EGodM9xromRFwp2cFmIiI3Dg==" />
+      <description>&lt;h3&gt;A calmer Mac window&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Home, You, and Dictations sit in a narrower column, centered beside the sidebar. The column is at most 680 points wide, so a large window no longer leaves a third of it empty. By day's two panes center too.&lt;/li&gt;&lt;li&gt;The greeting, Record card, and tiles are smaller, closer to other Mac apps.&lt;/li&gt;&lt;li&gt;On macOS 26 and later, the sidebar is the system's floating glass panel over the page. It no longer draws a blue outline after you click it. The arrow keys still move between items, and the selected item shows where you are.&lt;/li&gt;&lt;li&gt;Imported files with made-up names, like a TikTok download, get a suggested title. A file you named yourself keeps its name. For a file imported earlier, open its Summary and choose Regenerate.&lt;/li&gt;&lt;li&gt;Settings uses a plain gear everywhere, so it's easy to spot.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-277"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-277/Verbose.dmg" length="104775449" type="application/octet-stream" sparkle:edSignature="16g3RXXb8E5uLK/II97jQfQQhrLzm2xBduDCoAmpAuXcZIEKA7szuP6O+6ToM+kM61cEGwxxwaL63cUnohE2CQ==" />
     </item>
   </channel>
 </rss>
