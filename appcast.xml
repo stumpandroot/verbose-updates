@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 277</title>
-      <pubDate>Tue, 03 Nov 2026 00:19:49 GMT</pubDate>
+      <title>Verbose beta 278</title>
+      <pubDate>Tue, 03 Nov 2026 01:22:08 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>277</sparkle:version>
+      <sparkle:version>278</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;A calmer Mac window&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Home, You, and Dictations sit in a narrower column, centered beside the sidebar. The column is at most 680 points wide, so a large window no longer leaves a third of it empty. By day's two panes center too.&lt;/li&gt;&lt;li&gt;The greeting, Record card, and tiles are smaller, closer to other Mac apps.&lt;/li&gt;&lt;li&gt;On macOS 26 and later, the sidebar is the system's floating glass panel over the page. It no longer draws a blue outline after you click it. The arrow keys still move between items, and the selected item shows where you are.&lt;/li&gt;&lt;li&gt;Imported files with made-up names, like a TikTok download, get a suggested title. A file you named yourself keeps its name. For a file imported earlier, open its Summary and choose Regenerate.&lt;/li&gt;&lt;li&gt;Settings uses a plain gear everywhere, so it's easy to spot.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-277"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-277/Verbose.dmg" length="104775449" type="application/octet-stream" sparkle:edSignature="16g3RXXb8E5uLK/II97jQfQQhrLzm2xBduDCoAmpAuXcZIEKA7szuP6O+6ToM+kM61cEGwxxwaL63cUnohE2CQ==" />
+      <description>&lt;h3&gt;A calmer Mac window&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Imported videos show a still beside the line where the picture changes. Tap one to play. At most one every 10 seconds and 30 per video, so fast cuts don't fill the page. Videos imported earlier don't have stills.&lt;/li&gt;&lt;li&gt;Home, You, and Dictations sit in a narrower column, centered beside the sidebar. The column is at most 680 points wide, so a large window no longer leaves a third of it empty. By day's two panes center too.&lt;/li&gt;&lt;li&gt;The greeting, Record card, and tiles are smaller, closer to other Mac apps.&lt;/li&gt;&lt;li&gt;On macOS 26 and later, the sidebar is the system's floating glass panel over the page. It no longer draws a blue outline after you click it. The arrow keys still move between items, and the selected item shows where you are.&lt;/li&gt;&lt;li&gt;Imported files with made-up names, like a TikTok download, get a suggested title. A file you named yourself keeps its name. For a file imported earlier, open its Summary and choose Regenerate.&lt;/li&gt;&lt;li&gt;Settings uses a plain gear everywhere, so it's easy to spot.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-278"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-278/Verbose.dmg" length="104890080" type="application/octet-stream" sparkle:edSignature="HAcLyqhialxJehYi+lCjtJI6n20VlxKcyhBh3is0IFb5hkJOGNZxYX5y5r913vk+hYUhsJ6WKsGx6D6sX7cJCw==" />
     </item>
   </channel>
 </rss>
