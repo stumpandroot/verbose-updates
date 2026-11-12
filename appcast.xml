@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 328</title>
-      <pubDate>Wed, 11 Nov 2026 03:52:03 GMT</pubDate>
+      <title>Verbose beta 332</title>
+      <pubDate>Thu, 12 Nov 2026 22:18:56 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>328</sparkle:version>
+      <sparkle:version>332</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Faster dictation paste and a headset check&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Dictation cleans finished sentences while you talk, so the paste comes sooner. Only the last sentence is cleaned after you let go. It runs on this Mac with Apple Intelligence, never with cloud cleanup, and Esc discards it.&lt;/li&gt;&lt;li&gt;The log's timing line counts the sentences cleaned ahead, to measure the gain.&lt;/li&gt;&lt;li&gt;Verbose tells you when a Bluetooth headset records in call mode. Call mode is phone-call audio, so words can be less accurate. You see it once a day at most. The built-in mic or a wired mic records better.&lt;/li&gt;&lt;li&gt;Verbose keeps private numbers on how Only keep my voice would decide. With a voice profile, each dictation is scored after it pastes. Only numbers are kept, on this Mac, never words or audio. Deleting your voice profile deletes them.&lt;/li&gt;&lt;li&gt;Delete All Data on the Mac now deletes your voice profile and saved voices. Before, the voice profile and the voices of speakers you named stayed on the Mac. The iPhone already deleted them.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;The iPhone's Only keep my voice switch now filters keyboard dictation.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-328"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-328/Verbose.dmg" length="108765873" type="application/octet-stream" sparkle:edSignature="nZ+f0cVzpYkEbFJ6iKAHweU4IpEYo2Qo0dgo1j1A4MFYhhy3djJqMOwUJABaMA1v6g2Dzxb+xXPWpv2//QcCDw==" />
+      <description>&lt;h3&gt;Click a word to jump to it&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Click or highlight words in a transcript and the playhead moves to that word. Audio stays paused if it was paused. Before, a click played from the start of the line, and a highlight did nothing.&lt;/li&gt;&lt;li&gt;Double-click a word in a transcript to open the Fix box on it. For a name of two or more words, highlight it, then press Return or right-click and choose Correct.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-332"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-332/Verbose.dmg" length="108158826" type="application/octet-stream" sparkle:edSignature="/4DeJ1nE2ihZ39laZUUNMqs7UOx4xM/zGGSqXFj16Lj3qTmfprtpd7VDHIfP+vZbY5pojFddDAkIX/XlXPmuBg==" />
     </item>
   </channel>
 </rss>
