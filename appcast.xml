@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 332</title>
-      <pubDate>Thu, 12 Nov 2026 22:18:56 GMT</pubDate>
+      <title>Verbose beta 344</title>
+      <pubDate>Sat, 14 Nov 2026 21:40:03 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>332</sparkle:version>
+      <sparkle:version>344</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Click a word to jump to it&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Click or highlight words in a transcript and the playhead moves to that word. Audio stays paused if it was paused. Before, a click played from the start of the line, and a highlight did nothing.&lt;/li&gt;&lt;li&gt;Double-click a word in a transcript to open the Fix box on it. For a name of two or more words, highlight it, then press Return or right-click and choose Correct.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-332"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-332/Verbose.dmg" length="108158826" type="application/octet-stream" sparkle:edSignature="/4DeJ1nE2ihZ39laZUUNMqs7UOx4xM/zGGSqXFj16Lj3qTmfprtpd7VDHIfP+vZbY5pojFddDAkIX/XlXPmuBg==" />
+      <description>&lt;h3&gt;Speakers on long iPhone meetings&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;A transcript without speaker labels has Find speakers in its menu. It listens to the recording again for who spoke and leaves the words as they are.&lt;/li&gt;&lt;li&gt;Whisper no longer drops stretches of a long room recording where people are talking. Before, one low score could remove up to 30 seconds at a time. Text over silence is still removed.&lt;/li&gt;&lt;li&gt;Transcribe again on the Mac finds speakers again and keeps the names you gave. Before, old labels were laid over the new lines by time, so long lines held several people under one name.&lt;/li&gt;&lt;li&gt;If Transcribe again returns far fewer words, your transcript stays as it was. Verbose tells you both word counts and keeps the shorter version, so you can still switch to it.&lt;/li&gt;&lt;li&gt;Select text no longer pauses on a long meeting each time the playing line moves. Before, a meeting of an hour or more could stall for a second or two at every new line while it played.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;If iOS stops the speaker step on a long recording, it runs again when you open Verbose.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-344"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-344/Verbose.dmg" length="108269661" type="application/octet-stream" sparkle:edSignature="r4XwqVO9TXgRrT7O8SUaFAfL8I2RKzAfHoRrmk6OVrIkjMokxdCXct8YbDfTVriDxN4WOK6oBCFtw8YqszccDg==" />
     </item>
   </channel>
 </rss>
