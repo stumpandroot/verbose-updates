@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 352</title>
-      <pubDate>Sun, 15 Nov 2026 18:37:41 GMT</pubDate>
+      <title>Verbose beta 356</title>
+      <pubDate>Wed, 18 Nov 2026 13:13:28 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>352</sparkle:version>
+      <sparkle:version>356</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Dictation right at launch&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Verbose prepares the dictation sounds first, so they play soon after it opens. A sound that isn't ready in the first seconds is skipped, so dictation never waits on it.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-352"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-352/Verbose.dmg" length="108271916" type="application/octet-stream" sparkle:edSignature="6SKFDDRtL8k6FMtQIXtv7v2EzPVEfY9SiRsA9pWcGfqsasYTidXHljndX1v7i3sMufxlNKUxHNjmF8N84cuuCg==" />
+      <description>&lt;h3&gt;Quick actions&lt;/h3&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Send to AI opens the share sheet, so a transcript goes to ChatGPT or Claude in two taps.&lt;/li&gt;&lt;li&gt;Save a prompt in Edit quick actions and it goes above the transcript you copy or send.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-356"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-356/Verbose.dmg" length="108271811" type="application/octet-stream" sparkle:edSignature="jSGPcP9yQKW955Bbder/Kc9m4Os9LgA1+BXti6PdFTxF8ZZpz/Kol/GB/Hl0VbAjlmE0Fvd1jlwWBqFqk7+TBA==" />
     </item>
   </channel>
 </rss>
