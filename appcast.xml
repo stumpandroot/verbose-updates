@@ -6,14 +6,14 @@
     <description>Verbose for Mac: tagged releases, plus beta builds of main.</description>
     <language>en</language>
     <item>
-      <title>Verbose beta 356</title>
-      <pubDate>Wed, 18 Nov 2026 13:13:28 GMT</pubDate>
+      <title>Verbose beta 361</title>
+      <pubDate>Thu, 19 Nov 2026 00:05:50 GMT</pubDate>
       <sparkle:channel>beta</sparkle:channel>
-      <sparkle:version>356</sparkle:version>
+      <sparkle:version>361</sparkle:version>
       <sparkle:shortVersionString>1.0 beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h3&gt;Quick actions&lt;/h3&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Send to AI opens the share sheet, so a transcript goes to ChatGPT or Claude in two taps.&lt;/li&gt;&lt;li&gt;Save a prompt in Edit quick actions and it goes above the transcript you copy or send.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-356"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
-      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-356/Verbose.dmg" length="108271811" type="application/octet-stream" sparkle:edSignature="jSGPcP9yQKW955Bbder/Kc9m4Os9LgA1+BXti6PdFTxF8ZZpz/Kol/GB/Hl0VbAjlmE0Fvd1jlwWBqFqk7+TBA==" />
+      <description>&lt;h3&gt;AI prompts and quick actions&lt;/h3&gt;&lt;h4&gt;Mac&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;File a recording as AI prompt and its Prompt tab holds your words, ready to paste. Copy prompt and Send to AI carry the prompt alone, with no title or date. For Goal, Format, Warnings, and Context sections, choose Prompt in sections in Templates, under Run automatically.&lt;/li&gt;&lt;li&gt;A small card stays on screen while a call records, with the time, both tracks, and Stop. If the call's sound is missing, the card says so and offers the app on your microphone or everything the Mac plays. The consent sheet shows which app is recorded and lets you change it.&lt;/li&gt;&lt;li&gt;Verbose checks the call's sound every second and warns you if it stops arriving. Quiet moments are not treated as a problem. The log notes a changed sound output, which is the usual reason a call's sound drops out mid-call.&lt;/li&gt;&lt;li&gt;A call recorded from the menu uses the app on your microphone, not one that's only open. If that app plays no sound, Verbose records everything the Mac plays, so the other side is kept. The silent-call warning no longer has a button that drops the call's track.&lt;/li&gt;&lt;li&gt;Cleanup no longer adds a list of your Dictionary words to the end of a dictation. Cleanup sees only the spellings that sound like something you said, and a Dictionary name you didn't say is never added.&lt;/li&gt;&lt;li&gt;Copy for AI, Open in Claude, and Open in ChatGPT sit under a transcript's title. A short transcript arrives in a new Claude chat. A longer one, and any transcript for ChatGPT, is copied so you paste it with Command-V. Click the pencil to choose up to three actions.&lt;/li&gt;&lt;li&gt;Save a prompt in Edit quick actions and it goes above the transcript you copy or open. Find it in Settings under Watched folders and export too. The Mac and the iPhone each keep their own prompt.&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Also on iPhone&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;A meeting that comes back without speakers now says why, with Try again.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="https://github.com/stumpandroot/verbose-updates/releases/tag/beta-361"&gt;Release notes on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <enclosure url="https://github.com/stumpandroot/verbose-updates/releases/download/beta-361/Verbose.dmg" length="108579180" type="application/octet-stream" sparkle:edSignature="S5KXMPXbfIuVmtfa2ZS0KO+AvznI5wQHgPrcVfO/F09+eXF0TFqCv3W7nn8caDZHJfSoAVg/3Ef9UAqgqkaSCg==" />
     </item>
   </channel>
 </rss>
